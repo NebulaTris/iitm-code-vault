@@ -1,0 +1,9 @@
+[submodule "diplomainprogramming/DBMS_IITM"]
+	path = diplomainprogramming/DBMS_IITM
+	url = https://github.com/NebulaTris/DBMS_IITM.git
+[submodule "diplomainprogramming/pdsa-iitm"]
+	path = diplomainprogramming/pdsa-iitm
+	url = https://github.com/NebulaTris/pdsa-iitm
+[submodule "diplomainprogramming/system-commands"]
+	path = diplomainprogramming/system-commands
+	url = https://github.com/NebulaTris/system-commands.git
