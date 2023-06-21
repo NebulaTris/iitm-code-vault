@@ -21,7 +21,7 @@ diplomainprogramming/
 ├── dbms
 ├── system-commands
 ├── pdsa
-└── mad-1
+└── mad-2
 ```
 # Contributing
 Contributions to the submodules are welcome. If you find any issues or want to suggest improvements, please create an issue in the respective submodule repository. If you want to contribute code, please create a pull request in the respective submodule repository.
