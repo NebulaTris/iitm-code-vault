@@ -7,6 +7,3 @@
 [submodule "diplomainprogramming/system-commands"]
 	path = diplomainprogramming/system-commands
 	url = https://github.com/NebulaTris/system-commands.git
-[submodule "diplomainprogramming/mad_II_iitm"]
-	path = diplomainprogramming/mad_II_iitm
-	url = https://github.com/NebulaTris/mad_II_iitm.git
