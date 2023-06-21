@@ -10,8 +10,11 @@ The pdsa directory contains notes, assignments, and solutions for the course on 
 # DBMS
 The dbms directory contains notes, assignments, and solutions for the course on Database Management Systems. It covers topics such as relational database concepts, SQL queries, normalization, indexing, and more. The notes provide a comprehensive understanding of database management systems, while the assignments and solutions enhance practical knowledge.
 
+# Modern Application Development 2 
+This mad_II_iitm repository contains the solutions for the graded assignments and JavaScript programming assignments of the Modern Application Development 2 course offered by IIT Madras as a part of the BS in Data Science and Programming program.
+
 # Usage
-- Browse the respective directories (system-commands, pdsa, and dbms) to access the notes, assignments, and solutions for each course.
+- Browse the respective directories (system-commands, pdsa, dbms and mad_II) to access the notes, assignments, and solutions for each course.
 - The notes are provided in markdown format and can be viewed in any markdown viewer or text editor.
 - The assignments are provided in separate files and can be used for practice and self-assessment.
 - The solutions to the assignments are also provided in separate files, which can be referred to for understanding or comparing your own solutions.
